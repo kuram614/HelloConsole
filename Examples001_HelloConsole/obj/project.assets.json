@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\takzh\\.nuget\\packages\\": {}
+    "C:\\Users\\kURAMA\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GeekBrains\\examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
+      "projectUniqueName": "C:\\Users\\kURAMA\\Desktop\\C#\\HelloConsole\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
       "projectName": "Examples001_HelloConsole",
-      "projectPath": "E:\\GeekBrains\\examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
-      "packagesPath": "C:\\Users\\takzh\\.nuget\\packages\\",
-      "outputPath": "E:\\GeekBrains\\examples\\Examples001_HelloConsole\\obj\\",
+      "projectPath": "C:\\Users\\kURAMA\\Desktop\\C#\\HelloConsole\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
+      "packagesPath": "C:\\Users\\kURAMA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kURAMA\\Desktop\\C#\\HelloConsole\\Examples001_HelloConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\takzh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\kURAMA\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.415\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.416\\RuntimeIdentifierGraph.json"
       }
     }
   }
